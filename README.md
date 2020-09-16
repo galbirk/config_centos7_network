@@ -6,5 +6,5 @@ Bash Script to configure static network static on your local VM.
 chmod +x ./config-network.sh
 ./config-network.sh <ip> <subnet_mask> <default_gateway> <dns_address>
 ```
-## Notice!
+## Notice
 Run with root or sudo Permissions.
