@@ -1,5 +1,5 @@
 # config_centos7_network
-Bash Script to configure static network static on your local VM.
+Bash Script to configure static network on your local VM.
 
 ## Run Example
 ```bash
